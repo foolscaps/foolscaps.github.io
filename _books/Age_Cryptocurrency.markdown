@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Age of Cryptocurrency
-description: 
+description: summary, notes, and review
 img: /img/AgeCrypto.jpg
 ---
 
