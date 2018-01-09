@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Age of Cryptocurrency
-description: summary, notes, and review
+description: by Paul Vigna and Michael J. Casey
 img: /img/agecrypto.jpg
 ---
 
