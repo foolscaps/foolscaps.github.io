@@ -27,6 +27,6 @@ collections:
     permalink: /poetry/:path/
   books:
     output: true
-    permalink: /books/:paht/
+    permalink: /books/:path/
 
 
