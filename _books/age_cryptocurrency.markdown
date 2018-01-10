@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: booknote
 title: The Age of Cryptocurrency
 description: by Paul Vigna and Michael J. Casey
 img: /img/agecrypto.jpg
