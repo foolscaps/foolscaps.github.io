@@ -132,11 +132,11 @@ text-align: center;
 margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 30px;
+font-size: 20px;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
-font-size: 20px;
+font-size: 18px;
     }
 }
 .post-content {
@@ -166,7 +166,7 @@ margin-bottom: 0px;
 }
 .post-link {
 display: block;
-font-size: 30px;
+font-size: 20px;
 }
 
 /** Poem formatting ********************************************/
