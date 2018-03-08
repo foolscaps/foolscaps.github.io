@@ -20,6 +20,9 @@ paginate_path: "/blog/page:num/"
 
 # This displays the content on each category page. Categories still show on header.
 collections:
+  blog:
+    output: true
+    permalink: /blog/:path/
   #portfolio:
     #output: true
     #permalink: /portfolio/:path/
