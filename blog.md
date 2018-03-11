@@ -9,7 +9,7 @@ description: Some articles I write for myself, some for others.
     {% for post in site.posts %}
       <li>
         <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        <p class="post-list-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <p>{{ post.description }}</p>
         <!-- <br/> -->
         <hr/>
