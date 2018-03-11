@@ -11,7 +11,7 @@ description: Some articles I write for myself, some for others.
         <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
         <p>{{ post.description }}</p>
-        <br/>
+        <!-- <br/> -->
         <hr/>
       </li>
     {% endfor %}
