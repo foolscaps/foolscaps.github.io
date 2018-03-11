@@ -131,6 +131,9 @@ font-size: $small-font-size;
 color: $grey-color;
 margin-bottom: 0px;
 }
+.post-list-description {
+margin-bottom: $vertical-spacing-unit/2;
+}
 .contacticon {
 font-size: 60px;
 display:block;
