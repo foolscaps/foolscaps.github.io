@@ -3,11 +3,14 @@ layout: page
 ---
 <div class="post">
 
+  <!--
   <header class="post-header">
     <h3 class="page-title">{{ page.title }}</h3>
     <p>{{ page.description }}</p>
-    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
+  -->
+    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  
 
   <article class="post-content">
     {{ content }}
