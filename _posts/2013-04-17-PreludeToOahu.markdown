@@ -11,6 +11,13 @@ The worst part of any vacation is always the planning beforehand. We spent a cou
 
 I always love the plane ride to the destination, because of all the anticipation and excitement. The take off is always a thrill, especially when you’re leaving a grey, rainy city for a tropical island.
 
+<div class="img_row">
+	<img class="col three" src="/img/2013-04-17-a.jpg">
+</div>
+<div class="col three caption">
+	Bye bye, Vancouver. I won't miss you this week. 
+</div>
+
 We also went with WestJet for our last vacation (to Coachella), and we were quite pleased with them considering how they bailed us out when we missed our flight by putting us on the very next flight to a city (i.e., Palm Springs) that was even closer to our ultimate destination. This time, however, we realized WestJet is no different from all other North American airlines. Besides two rounds of complimentary beverages and snacks, nothing was provided unless you ponied up. Apparently this was common knowledge. V and I did not know this, and kept expecting food throughout the six hours of the flight. At the end of the flight we were miffed, and starving. I find it amusing that WestJet felt obligated to send us an email telling us there’d be no entertainment on the flight, but did not feel the need to say there would be no meal provided. It ended up feeling like quite the long flight.
 
 When we exited the airport, we were greeted by the sweet, warm air of Hawaii. It was humid and I loved it. It reminded me of Hong Kong. This affinity for the heat did not last, of course.
