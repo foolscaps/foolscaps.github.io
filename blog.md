@@ -11,8 +11,8 @@ description: some articles I write for myself, some for others
             <li>
                 <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
                 <span class="post-list-description">{{ post.description }}</span> &nbsp; &nbsp; &nbsp;
-                <span class="post-list-meta">{{ post.date | date: '%B %-d, %Y' }}!</span>
-                <p></p>
+                <span class="post-list-meta">{{ post.date | date: '%B %-d, %Y' }}</span>
+                <h4></h4>
                 <hr/>
             </li>
         {% endif %}
