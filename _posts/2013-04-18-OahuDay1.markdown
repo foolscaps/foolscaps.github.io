@@ -9,7 +9,7 @@ It was never a problem to get the day started in Hawaii. Seeing this view in the
 <div class="img_row">
 	<img class="col two" src="/img/2013-04-18-a.jpg">
 </div>
-<div class="col three caption">
+<div class="col two caption">
 	Good morning, Waikiki! 
 </div>
 <br/>
@@ -37,9 +37,9 @@ Near the end of the day we decided on relax on the beach. It was too late to go 
 
 After we enjoyed a couple beers and the sunset on our balcony, we got chalupas at Taco Bell. V was a happy man that night.
 <div class="img_row">
-	<img class="col one" src="/img/2013-04-18-b.jpg">
+	<img class="col two" src="/img/2013-04-18-b.jpg">
 </div>
-<div class="col three caption">
+<div class="col two caption">
 	The Ala Wai Canal, taken on the way to Taco Bell. Even drainage canals are beautiful in Hawaii. 
 </div>
 <br/>
