@@ -10,10 +10,9 @@ description: some articles I write for myself, some for others
         {% if post.description %}
             <li>
                 <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                <p>
                 <span class="post-list-description">{{ post.description }}</span> &nbsp; &nbsp; &nbsp;
                 <span class="post-list-meta">{{ post.date | date: '%B %-d, %Y' }}</span>
-                </p>
+                <br/><br/>
                 <hr/>
             </li>
         {% endif %}
