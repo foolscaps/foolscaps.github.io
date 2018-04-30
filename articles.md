@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /blog/
-title: blog
-description: some articles I write for myself, some for others
+permalink: /articles/
+title: articles
+description: articles I've written for non-profit organisations
 ---
 
 <ul class="post-list">
