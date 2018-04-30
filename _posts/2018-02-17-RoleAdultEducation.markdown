@@ -5,7 +5,7 @@ date:   2018-02-17
 description: Originally written for <a href="https://itakeactions.org/blog/28/The-Role-of-Adult-Education-in-Reducing-Child-Marriage" target="blank">I Take Actions</a>
 categories: Non-profit
 ---
-<div class="img_row">
+<div class="img_post">
 	<img class="col three" src="/img/2018-02-17.jpeg">
 </div>
 <div class="col three caption">
