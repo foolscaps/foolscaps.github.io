@@ -9,28 +9,62 @@ categories: Non-profit
 	<img class="col three" src="/img/2018-04-13-a.jpg">
 </div>
 <div class="col three caption">
+	Photo credit: Pixabay
+</div>
+<br/>
+
+Angkor Wat, located approximately 5.5 km to the north of Siem Reap, is the largest temple complex in the world and was one of the finalists for the Seven Wonders of the Modern World. In fact, the complex is so iconic that it was placed on the Cambodian flag in 1850.
+
+<div class="img_post">
+	<img class="col three" src="/img/2018-04-13-b.png">
+</div>
+<div class="col three caption">
 	Image credit: Pixabay
 </div>
 <br/>
 
-In honour of Global Action Week for Education which falls on the week of April 22–28 this year, let's take a look at some successful education campaigns in the past that had involved citizens’ actions. These campaigns have brought about positive change in education and are prime examples of how powerful citizens' actions can be.
+<h4>Why is Angkor Wat worth visiting?</h4>
 
-<h4>2011–2013 Chilean Student Protests</h4>
+While most people already know what Angkor Wat is and generally have a good idea of what to expect prior to visiting, they are still in awe when they actually set food on the grounds of Angkor Archaeological Park. The sheer size of the architecture, the history behind the construction, and the knowledge of the fact that it was built without modern technology are all reasons that people are blown away when they take in the view of the mammoth that is Angkor Wat.
 
-In May of 2011, <a href="https://en.wikipedia.org/wiki/2011%E2%80%9313_Chilean_student_protests" target="blank">Chilean students started taking to the streets</a> their dissatisfaction with the country's inadequate provision of public education and the overabundance of for-profit education. The students demanded more state funding for public education, and for there to be increased availability of public schooling for secondary and higher education. Over two years, hundreds and thousands of students and union workers held demonstrations, marches, and strikes to make their voices heard, which ultimately resulted in the government drawing up a proposal for a new education fund, the replacement of the Minister of Education, and a bill that forbids states support of for-profit education.
+<h4>When is the best time to visit Angkor Wat?</h4>
 
-<h4>Petition for Quality Education in Czech Republic</h4>
+The short answer is, as soon as possible! The number of tourists at Angkor Wat has taken a toll on the structural integrity of the site and there are already regulations put in place to restrict the number of tourists permitted at a time at certain parts of the attraction. It may not be long before they restrict tourists from visiting certain parts of the temple altogether.
 
-Just recently in January of this year, <a href="https://www.csee-etuce.org/en/news/archive/2504-czech-republic-education-trade-unions-petition-yields-results" target="blank">a petition</a> signed by 23,058 citizens was submitted to the government of the Czech Republic in an attempt to request increased funding and more transparency in expenditures on education, science, and research in the Czech Republic. A representative of education workers also had a discussion with the Prime Minister and the Minister of Education of the Czech Republic, leading to an agreement that teachers' salaries should be increased, in planned stages.
+If you’d like to avoid crowds as much as possible, consider visiting Siem Reap during the rainy season, which is generally June to October. During rainy days, the filled moats and ponds around Angkor Wat along with the active birdlife make it another sight to behold. Since the rain tends to start in the afternoon, you can attempt to get to the site early in the morning and see as much as possible before the rain moves in for the day.
 
-<h4>The 500 Windows Campaign in South Africa</h4>
+In fact, getting to Angkor Wat early in the morning is generally a good idea, regardless of whether you go in the dry season or the rainy season. It is a great way to beat the crowd and the heat.
 
-In 2008, education activists and local high-schoolers in South Africa formed a group called Equal Education that sought to improve the conditions of local Khayelitsha schools and children's access to quality education. They began with the initial goal of <a href="https://equaleducation.org.za/wp-content/uploads/2016/09/H-Angara-500-Broken-Windows-2011.pdf" target="blank">getting the 500 broken windows at Luhlaza School fixed</a>. The group organised petitions, meetings with the provincial education department, interviews with local press and radio, rallies, and wrote op-ed articles for local papers. In the end, not only were they able to have all 500 windows fixed, they were able to obtain a promise from the government to invest 671,000 Rands in Luhlaza School.
+<h4>Approach to visiting Angkor Wat</h4>
 
-<h4>Project Literacy on Social Media</h4>
+Many people choose to go see the sunrise at Angkor Wat, where the view is spectacular. This is an option for early risers who don’t mind getting to the site before it starts getting light, get a good spot, and wait for the twilight. Sunsets are similarly spectacular, but note that there would be a lot more people for sunsets, making for a less peaceful ambiance.
 
-An example of a successful social media campaign is <a href="http://shortyawards.com/2nd-socialgood/project-literacy-first-words" target="blank">Project Literacy</a>, an initiative to increase awareness of adult illiteracy. Activities, events, booths and projects that told stories of adult illiteracy were promoted via videos, websites, and social media. The campaign succeeded in increasing the empathy people have for illiterate adults, as well as increasing the number of people who believe they could have an impact on illiteracy.
+<div class="img_post">
+	<img class="col three" src="/img/2018-04-13-c.jpg">
+</div>
+<div class="col three caption">
+	Photo credit: Pixabay
+</div>
+<br/>
 
-<h4>Youth Action for Rights to Education in Pakistan</h4>
+Angkor Wat is an attraction that sells one-day passes, three-day passes, and even seven-day passes, so you know that is plenty to see there! As mentioned before, getting an early start is always recommended to evade both the crowds and the heat. If you’re not keen on seeing the sunrise, 7:00 a.m. is a reasonable time to get there.
 
-In 2010, Pakistan passed a law mandating that children aged 5–16 have free and compulsory education. The province of Sindh followed up with the Sindh Right of the Children Free and Compulsory Act 2013, but still failed to enforce it immediately after. A group of <a href="https://plan-international.org/advancing-global-goals-girls-pakistan" target="blank">young activists</a>, with the help of the humanitarian organisation Plan International, decided to urge the provincial government of Sindh to implement what is already the law. The activists collected 15,000 signatures in a petition, gave talks at conferences, and met with senior policymakers. Finally, in December of 2016, another law was passed to enforce the 2013 act, giving all children in Sindh the education they deserve.
+A great rule of thumb is to do the opposite of what other tourists do. For example:
+<ul>
+<li>Visit the other temples and leave the main temple of Angkor Wat until last. Most tourist begin with Angkor Wat first, meaning that it gets extremely busy in the morning.</li>
+<li>Phnom Bakheng is essentially the most popular temple at which to view to sunset. The morning or the middle of the day may be a better time to visit Bakheng. Then in the early evening, when everyone is at Bakheng, visit the other popular temples, such as Bayon and Ta Prohm (the ‘Tomb Raider Temple’).</li>
+<li>There are many other smaller, less known temples and areas that are just as beautiful as the popular ones, and much less crowded. Seek these out and enjoy the serenity of the park.</li>
+</ul>	
+	
+In terms of exploring the temples, many people find it worthwhile to hire a tour guide, who could help you avoid queues, find the nice spots, and learn interesting facts about the temples. Alternatively, you could hire a tuk tuk driver to take you around the complex, from temple to temple.
+
+<h4>Guidelines to visiting Angkor Wat</h4>
+<ul>
+<li>Angkor Wat is not lit by any artificial lighting. If you are headed there for sunrise or sunset, bring a torch (that’s flashlight for you North Americans) with you for navigation and safety while walking around the temples in the early mornings and the evenings.</li>
+<li>Wear light, loose-fitting clothing that covers your shoulders and knees. This is the standard dress code for visiting holy sites in Cambodia, and there are parts of the temple where it’s strictly enforced. It also serves as a nice screen for your skin from mosquitoes and the sun.</li>
+<li>Speaking of the sun, be vigilant in protecting yourself against its heat and harmful rays. Wear a hat, bring sunscreen, and stay hydrated.</li>
+<li>Wear suitable footwear, and it could be a tricky business when it comes to selecting the right kind of shoes for Angkor Wat. There are steep steps, uneven terrain around the temples, and you may end up walking for 12–15 km during your visit, so you would want something comfortable to walk in. However, some of the temples require visitors to take their shoes off before entering, so you would also want something that is also easy to take off. Sneakers and runners may get wet during rainy season, and be too hot during the dry season. Thus, many people suggest going with hiking sandals as the footwear of choice.</li>
+<li>Purchase your pass the day before to avoid delay on the day of the visit. The ticket office opens at 5:00 a.m., and believe it or not, the queues will already have formed by that time. Note that the ticket office for purchasing passes is not at Angkor Wat itself, but at a location on Street 60, approximately 6 km from Angkor Wat. If you buy your one-day pass after 5:00 p.m., it’s valid for the next day. Some people buy their passes after 5:00 p.m., immediately go to Angkor Wat for the sunset, then return the next day for the rest of the site.</li>
+</ul>
+
+Last but not least, use common sense and be respectful. Keep Cambodia beautiful!
