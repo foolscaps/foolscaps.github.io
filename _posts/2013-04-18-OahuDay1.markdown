@@ -2,7 +2,7 @@
 layout: post
 title:  Oahu, Hawaii, Day 1
 date:   2013-04-18
-description: Oahu, Hawaii (2/7)
+description: #Oahu, Hawaii (2/7)
 categories: Travel
 ---
 It was never a problem to get the day started in Hawaii. Seeing this view in the morning helped.
