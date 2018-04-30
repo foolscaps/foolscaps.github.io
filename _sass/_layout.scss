@@ -189,6 +189,13 @@ margin-bottom: 0px;
 display: block;
 font-size: 20px;
 }
+.img_post{
+height: 100%;
+width: 100%;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
 
 /** Poem formatting ********************************************/
 .poem-title {
