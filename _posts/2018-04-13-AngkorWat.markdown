@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Icon of Cambodia Angkor Wat
+title:  The Icon of Cambodia—Angkor Wat
 date:   2018-04-13
 description: Originally written for <a href="https://www.professionalsdoinggood.com/2018/04/13/angkor-wat/" target="blank">Professionals doing good</a>
 categories: Non-profit
