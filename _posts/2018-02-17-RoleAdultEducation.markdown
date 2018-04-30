@@ -6,7 +6,7 @@ description: Originally written for <a href="https://itakeactions.org/blog/28/Th
 categories: Non-profit
 ---
 <div class="img_row">
-	<img class="col three" height="350" src="/img/2018-02-17.jpeg">
+	<img class="col three" src="/img/2018-02-17.jpeg" height="350">
 </div>
 <div class="col three caption">
 	Photo credit: Sunday Alamba/AP 
