@@ -2,7 +2,7 @@
 layout: post
 title:  Oahu, Hawaii, Day 2
 date:   2013-05-10
-description: Oahu, Hawaii (3/7)
+description: #Oahu, Hawaii (3/7)
 categories: Travel
 ---
 We had two major activities planned today, tandem parasailing and snorkeling. It’s time to get wet and wild.
