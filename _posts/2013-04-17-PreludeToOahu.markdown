@@ -2,7 +2,7 @@
 layout: post
 title:  Prelude to Oahu
 date:   2013-04-17
-description: Oahu, Hawaii (1/7)
+description: #Oahu, Hawaii (1/7)
 categories: Travel
 ---
 I just spent six days in Oahu, Hawaii, and I think it was the best vacation I’ve ever had. Granted, I haven’t been on that many vacations overall (especially in recent years), but this island is pretty spectacular.
