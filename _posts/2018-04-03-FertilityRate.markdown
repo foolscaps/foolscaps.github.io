@@ -26,6 +26,7 @@ While there are a number of factors that affect fertility rates within a country
 <li>Educated women end up having fewer children, and not only simply because they want fewer children. Educated women tend to get married later, and tend to be older than uneducated women when they start having children, and therefore are more physically able to give birth. Compared to teenage mothers, whose bodies are often not yet matured enough to bear healthy babies, older women are more likely to give birth to babies who survive. Educated women are also better at providing care at home and raising their children more effectively, which ultimately increases their children's human capital and decreases the need for more children.</li>
 <li>Educated women know more about birth control, tend to adopt modern methods of birth control more often, and control birth better than uneducated women.</li>
 </ul>
+<br/>
 
 While both male and female education have an influence on fertility rate, the knowledge and opportunities that become available to females due to their attainment of education likely have a greater effect on the path they take in life and the number of children they end up having. With the appropriate enforcement of public policy, provision of sufficient funding and achievement of gender parity in education, Nigeria's population could be kept under control, leading to a more stable future for its people.
 
