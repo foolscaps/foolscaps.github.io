@@ -15,7 +15,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 15
-paginate_path: "/blog/page:num/"
+paginate_path: "/articles/page:num/"
 
 
 # This displays the content on each category page. Categories still show on header.
