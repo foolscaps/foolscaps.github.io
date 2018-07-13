@@ -65,7 +65,7 @@ Snails in Cambodia are often grilled or boiled, sometimes with cola added for ta
 <br/>
 
 <div class="img_post">
-	<img class="col three" src="/img/2018-05-19_Prahok.png">
+	<img class="col three" src="/img/2018-05-19_Prahok.jpg">
 </div>
 <div class="col three caption">
 	Prahok 
